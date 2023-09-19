@@ -1,7 +1,6 @@
 # Advanced-Scentific-Calculator
-Sure, I can assist with that.
 
-# ReadMe file for Scientific Calculator
+# Scientific Calculator
 
 This is a simple **Scientific Calculator** built using Python's **Tkinter** library. It has a standard as well as a scientific calculator that can perform basic and advanced mathematical operations.
 
@@ -26,12 +25,6 @@ This is a simple **Scientific Calculator** built using Python's **Tkinter** libr
 - Press the equal button to get the result.
 - Use the `C` button to clear the current entry, and `CE` button to clear all entries.
 - Switch between standard and scientific mode using the `File` dropdown menu in the menubar.
-
-## Screenshots
-
-![Standard calculator mode](https://i.imgur.com/iF7e10c.png)
-
-![Scientific calculator mode](https://i.imgur.com/67dKhMD.png)
 
 ## Contributing
 
